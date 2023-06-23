@@ -54,7 +54,7 @@ body {}
   padding-top: 16px;
   padding-bottom: 16px;
   background-color: #1f2937;
-  color: white;
+  color: #e5e7e8;
 
   display: flex;
   align-items: center;
@@ -62,7 +62,7 @@ body {}
 }
 
 .footer a {
-  color: white;
+  color: orange;
   text-decoration: none;
 }
 
