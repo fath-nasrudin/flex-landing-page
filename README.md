@@ -2,11 +2,11 @@
 
 ## Description
 
-this project done as the fulfillment of the assignment of the <a src="https://www.theodinproject.com/" target="_b;ank">The Odin Project</a>
+this project done as the fulfillment of the assignment of the [The Odin Project](https://www.theodinproject.com/)
 
 ## Assignment
 
-<a src="https://www.theodinproject.com/lessons/foundations-landing-page">Foundation Landing Page</a>
+[The Odin Project - Foundation Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 ## What I Practice
 
