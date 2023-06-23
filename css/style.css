@@ -13,8 +13,9 @@ body {}
 }
 
 .header,
-.footer {
-  padding: 0 10%;
+.footer,
+.section {
+  padding: 0 20%;
 }
 
 .header {
@@ -70,7 +71,6 @@ body {}
 }
 
 .section {
-  padding: 0 10%;
   padding-top: 72px;
   padding-bottom: 72px;
 }
@@ -181,4 +181,42 @@ button:hover {
   font-weight: 800;
   font-style: normal;
   font-size: 28px;
+}
+
+.cta-section {
+  color: #f9faf8;
+
+}
+
+.cta-container {
+  background-color: #3882f6;
+  padding: 48px 96px;
+  border-radius: 16px;
+
+  display: flex;
+  gap: 24px;
+  align-items: flex-end;
+  justify-content: space-between;
+
+}
+
+.cta-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.cta-title {
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.cta-button {
+  display: block;
+}
+
+.btn-secondary {
+  background-color: transparent;
+  border: 2px solid #f9faf8;
+  color: white;
 }
