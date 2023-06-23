@@ -49,6 +49,21 @@ body {}
   gap: 16px;
 }
 
+.footer {
+  padding: 16px;
+  background-color: #1f2937;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
 .main {
   flex: 1;
 }
