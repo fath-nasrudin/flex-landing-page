@@ -12,6 +12,12 @@ body {}
   flex-direction: column;
 }
 
+.header,
+.footer,
+.main {
+  padding: 0 10%;
+}
+
 .main {
   flex: 1;
 }
