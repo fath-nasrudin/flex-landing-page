@@ -13,8 +13,7 @@ body {}
 }
 
 .header,
-.footer,
-.main {
+.footer {
   padding: 0 10%;
 }
 
@@ -68,4 +67,64 @@ body {}
 
 .main {
   flex: 1;
+}
+
+.section {
+  padding: 0 10%;
+  padding-top: 72px;
+  padding-bottom: 72px;
+  background-color: #1f2937;
+
+}
+
+.hero {
+  color: white;
+
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 32px;
+}
+
+.hero * {
+  flex: 1;
+}
+
+.hero-image {
+  background-color: grey;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.hero-text {
+  color: #e5e7e8
+}
+
+button {
+  padding: 4px 16px;
+  border-radius: 8px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.btn-primary {
+  color: white;
+  font-weight: 700;
+  background-color: #3882f6;
 }
