@@ -4,8 +4,6 @@
   padding: 0;
 }
 
-body {}
-
 .container {
   min-height: 100vh;
   display: flex;
